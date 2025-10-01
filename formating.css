@@ -1,0 +1,52 @@
+ .p {
+    font-family: sans-serif;
+    font-size: 80px;
+    text-shadow: 2px 2px 0.5px rgb(239, 117, 17),4px 4px 0.6px rgb(11, 144, 215), 6px 6px 0.7px blueviolet;
+}
+
+
+.lorem1 {
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    height: 70px;
+   
+}
+.lorem2{
+     background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    height: 30px; 
+    white-space: nowrap;
+   overflow: hidden;
+}
+.lorem3{
+     background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    height: 30px; 
+     white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   
+}
+
+/* practice */
+.link1{
+    background-color: rgb(10, 180, 180); 
+    color: white;
+    width: 200px;
+    height: 90px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 10px solid rgb(2, 74, 68);
+}
+.link{
+    color: white;
+   text-decoration: none;
+}
